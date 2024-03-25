@@ -1,0 +1,3 @@
+database:
+  kind: sqlite
+  path: ${SQLITE_PATH:-/tmp/dipdup_indexer_dex_test_2.sqlite}
